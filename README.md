@@ -106,6 +106,9 @@ Computed uplift = (Pred_with_promo - Pred_without_promo)
 🎯 Outcome
 Delivered a quantitative framework to assess promotion impact
 
+Author Jyothi Bhaskar Vardhi LinkedIn: www.linkedin.com/in/jyothivardhi 
+GitHub: Jyothi28102004
+
 Helped identify whether campaigns drive true sales uplift or just shift demand
 
 Simulated a production-grade pipeline for promotional forecasting
